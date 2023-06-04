@@ -1,0 +1,72 @@
+p,h1{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url('/');
+    background-size: contain;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    /* background-color: brown; */
+    height: 100vh;
+    justify-content: space-evenly;
+}
+.main{
+    border: 2px solid rgb(171, 105, 105);
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(83, 144, 144);
+    justify-content: space-evenly;
+    height: 10vh;
+    align-items: center;
+}
+.project{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.side{
+    border: 2px solid rgb(164, 68, 68);
+    width: 17%;
+}
+.user-c{
+    border: 2px solid wheat;
+    display: flex;
+    padding: 0;
+    /* margin: 0%; */
+}
+.data{
+    /* background-color: aquamarine; */
+    width: 100%;
+}
+.data h1{
+    color: rgb(132, 80, 80);
+    padding: 1%;
+}
+.user-info{
+    color: rgb(135, 80, 80);
+    padding: 1%;
+    /* border: 2px solid wheat; */
+    
+}
+
+.cp-div{
+    background-color: rgb(121, 118, 116);
+    padding: 0.5%;
+    width: 12%;
+    margin-left: 5%;
+}
+.cp-div a{
+    color: #0d0d0f;
+    font-size: 1.5rem;
+}
