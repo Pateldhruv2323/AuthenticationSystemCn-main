@@ -3,12 +3,6 @@
 A complete authentication system which can be used as a starter code for creating any new
 application
 
-Click [here](http://3.86.114.75:8004/) to go Open app
-
-
-![image](https://i.ibb.co/R6qks43/Screenshot-2023-01-19-150311.png)
-
-
 
 
 
@@ -30,10 +24,6 @@ Click [here](http://3.86.114.75:8004/) to go Open app
 
 
 
-## Installation
-
-Repo link 
-https://github.com/raj0811/AuthenticationSystemCn.git
 
 
 > ***Install project with npm***       
